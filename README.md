@@ -1,1 +1,1 @@
-Arquivos de códigos trabalhados em cursos em plataformas diversas.
+Códigos de estudos de programaçãõ orientada a objetos. Primeiro contato com POO em Java.
